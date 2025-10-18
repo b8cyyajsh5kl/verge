@@ -892,3 +892,5 @@ Thanks to everyone who directly contributed to this release:
 - zathras-crypto
 
 As well as everyone that helped translating on [Transifex](https://www.transifex.com/projects/p/bitcoin/).
+
+<!-- Auto-update: 2025-10-18T11:12:40.888241 -->
